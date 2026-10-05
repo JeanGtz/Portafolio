@@ -23,8 +23,6 @@ export const sobreMi =
 
 export const contacto = {
   email: 'jeangut2302@gmail.com',
-  github: 'https://github.com/tu-usuario',        // TODO: pon tu usuario
-  linkedin: 'https://linkedin.com/in/tu-usuario',  // TODO: o borra esta línea si no tienes
 };
 
 export const tecnologias = [
